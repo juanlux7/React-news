@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+![alt text](https://user-images.githubusercontent.com/40801686/44071631-a583778c-9f8a-11e8-8633-bb298acdb330.png)
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
